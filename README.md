@@ -48,8 +48,9 @@ p, bob, data2, write
 
 如下为数据库中`casbin_rule`数据库表的示例：
 
-|------|------|-----|------|----|------|
+
 | p_type | v0 | v1| v2| v3 | v4 | v5|
+|------|------|-----|------|----|------|---|
 | p | admin | /member/* | GET | | | |
 | g | zhaojunwei | admin | | | | |
 | g | gaolin | vip | | | | | 
