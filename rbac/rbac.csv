@@ -1,0 +1,5 @@
+p, admin, /member/*, GET
+p, user, /member/*, GET
+
+g, zhaojunwei, admin
+g, gaolin, user
