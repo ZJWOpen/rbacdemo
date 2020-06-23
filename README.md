@@ -55,3 +55,6 @@ p, bob, data2, write
 | g | zhaojunwei | admin | | | | |
 | g | gaolin | vip | | | | | 
 | p | goalin | /member/* | GET | | | |
+
+
+更多详细内容，请查阅官方文档
