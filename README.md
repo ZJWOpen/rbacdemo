@@ -57,4 +57,4 @@ p, bob, data2, write
 | p | goalin | /member/* | GET | | | |
 
 
-更多详细内容，请查阅官方文档
+更多详细内容，请查阅(casbin官方文档)[https://github.com/casbin/casbin]
